@@ -1,0 +1,38 @@
+.file-upload-1 {
+    width: 60%;
+    padding: 35px;
+    border: 2px dotted #ffffff;
+    background: #bbbbbb;
+    margin: auto;
+    border-radius: 5px;
+}
+.file-upload {
+    display: flex;
+    flex-direction: column;
+}
+/* .upload-section {
+    display: flex
+;
+    justify-content: center;
+} */
+.file-upload-2 {
+    width: 60%;
+    padding: 35px;
+    border: 2px dotted #ffffff;
+    background: #bbbbbb;
+    margin: auto;
+    border-radius: 5px;
+    margin-top: 30px;
+}
+.recommendation-button {
+    background-color: rgb(44, 175, 254);
+    border-radius: 5px;
+    color: #fff;
+    font-weight: 500;
+}
+.upload-container {
+    height: 900px;
+    background: rgb(8 13 25);
+    margin: auto;
+    padding-top: 100px;
+}

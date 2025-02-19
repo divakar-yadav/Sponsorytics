@@ -1,0 +1,22 @@
+.dashboard-container {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    gap: 20px;
+    padding: 20px;
+    background-color: rgb(8 13 25);
+    color: white;
+  }
+
+  .dashboard-metrics {
+    background-color: rgb(9 17 30);
+    padding: 20px;
+    border-radius: 10px;
+  }
+  
+  .dashboard-chart {
+    background-color: rgb(9 17 30);
+    padding: 20px;
+    border-radius: 10px;
+    min-height: 400px;
+    border: 1px solid #484848;
+}
